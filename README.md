@@ -10,7 +10,7 @@ This Privacy Policy describes how Movie to Actor to Movie Game ("the App", "we",
 
 ## 1. Data We Collect
 
-**CineChain does not collect any personal data.**
+**Movie to Actor to Movie Game does not collect any personal data.**
 
 We do not ask for your name, email address, phone number, location, or any other personally identifiable information.
 
